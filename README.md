@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dpetriev
-- 👀 I’m interested in DevOps methodology including kubernetes and python.
+- 👋 Hi, I’m Dmitry Petriev
+- 👀 I’m interested in DevOps methodology, computer science.
 - 🌱 I’m currently learning Kubernetes and AWS.
 - 💞️ My favorite tools: AWS, python, Linux.
 - 📫 You can reach me in telegram: @dpetriev or with email: dmitry.petriev@gmail.com
